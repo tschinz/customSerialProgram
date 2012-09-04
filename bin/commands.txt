@@ -6,3 +6,4 @@ rd 000010 4
 bram n
 reg
 help
+rd 0000 01

@@ -2,7 +2,6 @@
 ================================
 
 The goal is to facilitate the debug of a system with the help of a serial. This program lets you create custom commands and they can be sent over a Serial Port. The record of the send and received commands can be create with a appropriate timestamp.
----
 
 ![CSP Screennshot](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp.png)
 
