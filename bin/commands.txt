@@ -7,3 +7,7 @@ bram n
 reg
 help
 rd 0000 01
+spi y
+spi n
+rd 0000 01
+rd 0001 01
