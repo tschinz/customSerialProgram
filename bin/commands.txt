@@ -1,14 +1,12 @@
-= Title
-# commment
-bram y
-wr 000010 0123 4567 89AB CDEF # this is a comment
-rd 000010 4
-bram n
-reg
-help
-rd 0000 01
-spi y
-spi n
-rd 0000 01
-rd 0001 01
-blabla\nbla
+= Title
+bram y
+wr 000010 0123 4567 89AB CDEF
+rd 000010 4
+bram n
+reg
+help
+rd 0000 01
+spi y
+spi n
+rd 0000 01
+command1\ncommand2
