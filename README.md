@@ -1,4 +1,4 @@
-[Custom Serial Program](zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:myprograms) - UART Debug Monitor
+[Custom Serial Program](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:myprograms) - UART Debug Monitor
 ================================
 
 The goal is to facilitate the debug of a system with the help of a serial. This program lets you create custom commands and they can be sent over a Serial Port. The record of the send and received commands can be create with a appropriate timestamp.
