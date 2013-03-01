@@ -3,7 +3,7 @@
 
 The goal is to facilitate the debug of a system with the help of a serial. This program lets you create custom commands and they can be sent over a Serial Port. The record of the send and received commands can be create with a appropriate timestamp.
 
-![CSP Screennshot](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp.png)
+![CSP Screennshot](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp_v1.6.png)
 
 To Launch the Program you need to have installed Python 2.7 and certain modules.
 - [Python 2.7.x](http://www.python.org/getit/releases/2.7/)
