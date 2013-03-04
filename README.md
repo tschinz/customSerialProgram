@@ -39,17 +39,17 @@ Sourcefiles
 
 Changelog
 ---
-0.1 - Initial Release, non Public
-0.2 - Release, non Public
-0.3 - Release, non Public
-1.0 - First official Relase
-1.1 - Bugfix automatic scrolling
-1.2 - Icons modified
-1.3 - Opening closing port automatic
-1.4 - Bugfix stability issue
-1.5 - Added Reset button and Menubar
-1.6 - Add \n\r & decoding, improved add remove command
-1.7 - Added loop function, seperate Thread for sending
+- 1.7 - Added loop function, seperate Thread for sending
+- 1.6 - Add \n\r & decoding, improved add remove command
+- 1.5 - Added Reset button and Menubar
+- 1.4 - Bugfix stability issue
+- 1.3 - Opening closing port automatic
+- 1.2 - Icons modified
+- 1.1 - Bugfix automatic scrolling
+- 1.0 - First official Relase
+- 0.3 - Release, non Public
+- 0.2 - Release, non Public
+- 0.1 - Initial Release, non Public
 
 Licensing
 ---
