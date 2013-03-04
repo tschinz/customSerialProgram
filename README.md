@@ -1,9 +1,11 @@
-[Custom Serial Program](http://zawiki.dyndns.org/doku.php/tschinz:myprograms) - UART Debug Monitor
+[Custom Serial Program](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:myprograms) - UART Debug Monitor
 ================================
 
 The goal is to facilitate the debug of a system with the help of a serial. This program lets you create custom commands and they can be sent over a Serial Port. The record of the send and received commands can be create with a appropriate timestamp.
 
-![CSP Screennshot](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp.png)
+---
+
+![CSP Screennshot](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp.png)
 
 To Launch the Program you need to have installed Python 2.7 and certain modules.
 - [Python 2.7.x](http://www.python.org/getit/releases/2.7/)
@@ -35,6 +37,19 @@ Sourcefiles
 - serialutils.py handles low level serial commands
 - setup2exe.py creates automatically a Windows executable
 
+Changelog
+---
+0.1 - Initial Release, non Public
+0.2 - Release, non Public
+0.3 - Release, non Public
+1.0 - First official Relase
+1.1 - Bugfix automatic scrolling
+1.2 - Icons modified
+1.3 - Opening closing port automatic
+1.4 - Bugfix stability issue
+1.5 - Added Reset button and Menubar
+1.6 - Add \n\r & decoding, improved add remove command
+1.7 - Added loop function, seperate Thread for sending
 
 Licensing
 ---
