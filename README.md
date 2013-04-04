@@ -22,7 +22,7 @@ For Linux launch, user the `csp.pyw` script in the `scr` folder. All the above m
 `sudo apt-get install python2.7 python-qt4 python-py`
 
 ### Windows
-For launching on Windows an executable wsa build. Launch the `csp.exe` in the `bin` folder.
+For launching on Windows an executable was build. Launch the `csp.exe` in the `bin` folder.
 
 Python based
 ---
@@ -39,6 +39,7 @@ Sourcefiles
 
 Changelog
 ---
+- 1.7.3 - Created win32 and win64 binaries
 - 1.7.2 - fixed GUI reception bug
 - 1.7.1 - new Button layout and text
 - 1.7   - Added loop function, seperate Thread for sending
