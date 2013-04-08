@@ -39,6 +39,7 @@ Sourcefiles
 
 Changelog
 ---
+- 1.8   - added setting.ini and choosable *.cmd file
 - 1.7.3 - Created win32 and win64 binaries
 - 1.7.2 - fixed GUI reception bug
 - 1.7.1 - new Button layout and text
