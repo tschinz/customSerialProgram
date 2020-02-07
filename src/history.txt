@@ -1,0 +1,568 @@
+                              Tue, 09 Apr 2013 12:34:10
+pressure   1 bar container = 3555 mBar
+                              Tue, 09 Apr 2013 12:39:10
+pressure   1 bar container = 3532 mBar
+                              Tue, 09 Apr 2013 12:44:10
+pressure   1 bar container = 3512 mBar
+                              Tue, 09 Apr 2013 12:49:10
+pressure   1 bar container = 3501 mBar
+                              Tue, 09 Apr 2013 12:54:10
+pressure   1 bar container = 3479 mBar
+                              Tue, 09 Apr 2013 12:59:10
+pressure   1 bar container = 3465 mBar
+                              Tue, 09 Apr 2013 16:31:20
+pressure   1 bar container = 2919 mBar
+                              Wed, 10 Apr 2013 07:13:42
+pressure   1 bar container = 1627 mBar
+                              Wed, 10 Apr 2013 07:14:04
+pressure   1 bar container = 1625 mBar
+                              Wed, 10 Apr 2013 07:19:04
+pressure   1 bar container = 1623 mBar
+                              Wed, 10 Apr 2013 07:24:04
+pressure   1 bar container = 1618 mBar
+                              Wed, 10 Apr 2013 07:29:04
+pressure   1 bar container = 1613 mBar
+                              Wed, 10 Apr 2013 12:49:02
+pressure   1 bar container = 1405 mBar
+                              Wed, 10 Apr 2013 12:54:02
+pressure   1 bar container = 1404 mBar
+                              Wed, 10 Apr 2013 12:59:02
+pressure   1 bar container = 1402 mBar
+                              Wed, 10 Apr 2013 13:04:02
+pressure   1 bar container = 1396 mBar
+                              Wed, 10 Apr 2013 13:09:02
+pressure   1 bar container = 1393 mBar
+                              Wed, 10 Apr 2013 13:14:02
+pressure   1 bar container = 1390 mBar
+                              Wed, 10 Apr 2013 13:19:02
+pressure   1 bar container = 1389 mBar
+                              Wed, 10 Apr 2013 13:24:02
+pressure   1 bar container = 1388 mBar
+                              Wed, 10 Apr 2013 13:29:02
+pressure   1 bar container = 1387 mBar
+                              Wed, 10 Apr 2013 13:34:02
+pressure   1 bar container = 1385 mBar
+                              Wed, 10 Apr 2013 13:39:02
+pressure   1 bar container = 1381 mBar
+                              Wed, 10 Apr 2013 13:44:02
+pressure   1 bar container = 1380 mBar
+                              Wed, 10 Apr 2013 13:49:02
+pressure   1 bar container = 1377 mBar
+                              Wed, 10 Apr 2013 13:54:02
+pressure   1 bar container = 1371 mBar
+                              Wed, 10 Apr 2013 13:59:02
+pressure   1 bar container = 1371 mBar
+                              Wed, 10 Apr 2013 14:04:02
+pressure   1 bar container = 1367 mBar
+                              Wed, 10 Apr 2013 14:09:02
+pressure   1 bar container = 1364 mBar
+                              Wed, 10 Apr 2013 14:14:02
+pressure   1 bar container = 1363 mBar
+                              Wed, 10 Apr 2013 14:19:02
+pressure   1 bar container = 1362 mBar
+                              Wed, 10 Apr 2013 14:24:02
+pressure   1 bar container = 1358 mBar
+                              Wed, 10 Apr 2013 14:29:02
+pressure   1 bar container = 1358 mBar
+                              Wed, 10 Apr 2013 14:34:02
+pressure   1 bar container = 1355 mBar
+                              Wed, 10 Apr 2013 14:39:01
+pressure   1 bar container = 1353 mBar
+                              Wed, 10 Apr 2013 14:44:01
+pressure   1 bar container = 1351 mBar
+                              Wed, 10 Apr 2013 14:49:01
+pressure   1 bar container = 1349 mBar
+                              Wed, 10 Apr 2013 14:54:01
+pressure   1 bar container = 1344 mBar
+                              Wed, 10 Apr 2013 14:59:01
+pressure   1 bar container = 1344 mBar
+                              Wed, 10 Apr 2013 15:04:01
+pressure   1 bar container = 1341 mBar
+                              Wed, 10 Apr 2013 15:09:01
+pressure   1 bar container = 1340 mBar
+                              Wed, 10 Apr 2013 15:14:01
+pressure   1 bar container = 1337 mBar
+                              Wed, 10 Apr 2013 15:19:01
+pressure   1 bar container = 1332 mBar
+                              Wed, 10 Apr 2013 15:24:01
+pressure   1 bar container = 1331 mBar
+                              Wed, 10 Apr 2013 15:29:01
+pressure   1 bar container = 1329 mBar
+                              Wed, 10 Apr 2013 15:34:01
+pressure   1 bar container = 1328 mBar
+                              Wed, 10 Apr 2013 15:39:01
+pressure   1 bar container = 1325 mBar
+                              Wed, 10 Apr 2013 15:44:01
+pressure   1 bar container = 1324 mBar
+                              Wed, 10 Apr 2013 15:49:01
+pressure   1 bar container = 1320 mBar
+                              Wed, 10 Apr 2013 15:54:01
+pressure   1 bar container = 1321 mBar
+                              Wed, 10 Apr 2013 15:59:01
+pressure   1 bar container = 1317 mBar
+                              Wed, 10 Apr 2013 16:04:01
+pressure   1 bar container = 1314 mBar
+                              Wed, 10 Apr 2013 16:09:01
+pressure   1 bar container = 1314 mBar
+                              Wed, 10 Apr 2013 16:14:01
+pressure   1 bar container = 1311 mBar
+                              Wed, 10 Apr 2013 16:19:01
+pressure   1 bar container = 1310 mBar
+                              Wed, 10 Apr 2013 16:24:01
+pressure   1 bar container = 1306 mBar
+                              Wed, 10 Apr 2013 16:29:01
+pressure   1 bar container = 1305 mBar
+                              Wed, 10 Apr 2013 16:34:01
+pressure   1 bar container = 1303 mBar
+                              Wed, 10 Apr 2013 16:39:01
+pressure   1 bar container = 1299 mBar
+                              Wed, 10 Apr 2013 16:44:01
+pressure   1 bar container = 1298 mBar
+                              Wed, 10 Apr 2013 16:49:01
+pressure   1 bar container = 1295 mBar
+                              Wed, 10 Apr 2013 16:54:01
+pressure   1 bar container = 1293 mBar
+                              Wed, 10 Apr 2013 16:59:01
+pressure   1 bar container = 1294 mBar
+                              Wed, 10 Apr 2013 17:04:01
+pressure   1 bar container = 1292 mBar
+                              Wed, 10 Apr 2013 17:09:01
+pressure   1 bar container = 1289 mBar
+                              Wed, 10 Apr 2013 17:14:01
+pressure   1 bar container = 1288 mBar
+                              Wed, 10 Apr 2013 17:19:01
+pressure   1 bar container = 1283 mBar
+                              Wed, 10 Apr 2013 17:24:01
+pressure   1 bar container = 1280 mBar
+                              Wed, 10 Apr 2013 17:29:01
+pressure   1 bar container = 1280 mBar
+                              Wed, 10 Apr 2013 17:34:01
+pressure   1 bar container = 1279 mBar
+                              Wed, 10 Apr 2013 17:39:01
+pressure   1 bar container = 1275 mBar
+                              Wed, 10 Apr 2013 17:44:00
+pressure   1 bar container = 1276 mBar
+                              Wed, 10 Apr 2013 17:49:00
+pressure   1 bar container = 1273 mBar
+                              Wed, 10 Apr 2013 17:54:00
+pressure   1 bar container = 1273 mBar
+                              Wed, 10 Apr 2013 17:59:00
+pressure   1 bar container = 1269 mBar
+                              Wed, 10 Apr 2013 18:04:00
+pressure   1 bar container = 1267 mBar
+                              Wed, 10 Apr 2013 18:09:00
+pressure   1 bar container = 1266 mBar
+                              Wed, 10 Apr 2013 18:14:00
+pressure   1 bar container = 1264 mBar
+                              Wed, 10 Apr 2013 18:19:00
+pressure   1 bar container = 1262 mBar
+                              Wed, 10 Apr 2013 18:24:00
+pressure   1 bar container = 1260 mBar
+                              Wed, 10 Apr 2013 18:29:00
+pressure   1 bar container = 1259 mBar
+                              Wed, 10 Apr 2013 18:34:00
+pressure   1 bar container = 1256 mBar
+                              Wed, 10 Apr 2013 18:39:00
+pressure   1 bar container = 1254 mBar
+                              Wed, 10 Apr 2013 18:44:00
+pressure   1 bar container = 1251 mBar
+                              Wed, 10 Apr 2013 18:49:00
+pressure   1 bar container = 1251 mBar
+                              Wed, 10 Apr 2013 18:54:00
+pressure   1 bar container = 1249 mBar
+                              Wed, 10 Apr 2013 18:59:00
+pressure   1 bar container = 1246 mBar
+                              Wed, 10 Apr 2013 19:04:00
+pressure   1 bar container = 1246 mBar
+                              Wed, 10 Apr 2013 19:09:00
+pressure   1 bar container = 1245 mBar
+                              Wed, 10 Apr 2013 19:14:00
+pressure   1 bar container = 1241 mBar
+                              Wed, 10 Apr 2013 19:19:00
+pressure   1 bar container = 1241 mBar
+                              Wed, 10 Apr 2013 19:24:00
+pressure   1 bar container = 1240 mBar
+                              Wed, 10 Apr 2013 19:29:00
+pressure   1 bar container = 1238 mBar
+                              Wed, 10 Apr 2013 19:34:00
+pressure   1 bar container = 1236 mBar
+                              Wed, 10 Apr 2013 19:39:00
+pressure   1 bar container = 1234 mBar
+                              Wed, 10 Apr 2013 19:44:00
+pressure   1 bar container = 1236 mBar
+                              Wed, 10 Apr 2013 19:49:00
+pressure   1 bar container = 1232 mBar
+                              Wed, 10 Apr 2013 19:54:00
+pressure   1 bar container = 1232 mBar
+                              Wed, 10 Apr 2013 19:59:00
+pressure   1 bar container = 1230 mBar
+                              Wed, 10 Apr 2013 20:04:00
+pressure   1 bar container = 1229 mBar
+                              Wed, 10 Apr 2013 20:09:00
+pressure   1 bar container = 1228 mBar
+                              Wed, 10 Apr 2013 20:14:00
+pressure   1 bar container = 1226 mBar
+                              Wed, 10 Apr 2013 20:19:00
+pressure   1 bar container = 1221 mBar
+                              Wed, 10 Apr 2013 20:24:00
+pressure   1 bar container = 1220 mBar
+                              Wed, 10 Apr 2013 20:29:00
+pressure   1 bar container = 1219 mBar
+                              Wed, 10 Apr 2013 20:34:00
+pressure   1 bar container = 1219 mBar
+                              Wed, 10 Apr 2013 20:39:00
+pressure   1 bar container = 1218 mBar
+                              Wed, 10 Apr 2013 20:43:59
+pressure   1 bar container = 1218 mBar
+                              Wed, 10 Apr 2013 20:48:59
+pressure   1 bar container = 1215 mBar
+                              Wed, 10 Apr 2013 20:53:59
+pressure   1 bar container = 1212 mBar
+                              Wed, 10 Apr 2013 20:58:59
+pressure   1 bar container = 1212 mBar
+                              Wed, 10 Apr 2013 21:03:59
+pressure   1 bar container = 1211 mBar
+                              Wed, 10 Apr 2013 21:08:59
+pressure   1 bar container = 1208 mBar
+                              Wed, 10 Apr 2013 21:13:59
+pressure   1 bar container = 1208 mBar
+                              Wed, 10 Apr 2013 21:18:59
+pressure   1 bar container = 1206 mBar
+                              Wed, 10 Apr 2013 21:23:59
+pressure   1 bar container = 1206 mBar
+                              Wed, 10 Apr 2013 21:28:59
+pressure   1 bar container = 1204 mBar
+                              Wed, 10 Apr 2013 21:33:59
+pressure   1 bar container = 1202 mBar
+                              Wed, 10 Apr 2013 21:38:59
+pressure   1 bar container = 1202 mBar
+                              Wed, 10 Apr 2013 21:43:59
+pressure   1 bar container = 1200 mBar
+                              Wed, 10 Apr 2013 21:48:59
+pressure   1 bar container = 1199 mBar
+                              Wed, 10 Apr 2013 21:53:59
+pressure   1 bar container = 1197 mBar
+                              Wed, 10 Apr 2013 21:58:59
+pressure   1 bar container = 1195 mBar
+                              Wed, 10 Apr 2013 22:03:59
+pressure   1 bar container = 1192 mBar
+                              Wed, 10 Apr 2013 22:08:59
+pressure   1 bar container = 1192 mBar
+                              Wed, 10 Apr 2013 22:13:59
+pressure   1 bar container = 1190 mBar
+                              Wed, 10 Apr 2013 22:18:59
+pressure   1 bar container = 1189 mBar
+                              Wed, 10 Apr 2013 22:23:59
+pressure   1 bar container = 1188 mBar
+                              Wed, 10 Apr 2013 22:28:59
+pressure   1 bar container = 1186 mBar
+                              Wed, 10 Apr 2013 22:33:59
+pressure   1 bar container = 1185 mBar
+                              Wed, 10 Apr 2013 22:38:59
+pressure   1 bar container = 1182 mBar
+                              Wed, 10 Apr 2013 22:43:59
+pressure   1 bar container = 1181 mBar
+                              Wed, 10 Apr 2013 22:48:59
+pressure   1 bar container = 1182 mBar
+                              Wed, 10 Apr 2013 22:53:59
+pressure   1 bar container = 1178 mBar
+                              Wed, 10 Apr 2013 22:58:59
+pressure   1 bar container = 1177 mBar
+                              Wed, 10 Apr 2013 23:03:59
+pressure   1 bar container = 1177 mBar
+                              Wed, 10 Apr 2013 23:08:59
+pressure   1 bar container = 1174 mBar
+                              Wed, 10 Apr 2013 23:13:59
+pressure   1 bar container = 1173 mBar
+                              Wed, 10 Apr 2013 23:18:59
+pressure   1 bar container = 1174 mBar
+                              Wed, 10 Apr 2013 23:23:59
+pressure   1 bar container = 1173 mBar
+                              Wed, 10 Apr 2013 23:28:59
+pressure   1 bar container = 1172 mBar
+                              Wed, 10 Apr 2013 23:33:59
+pressure   1 bar container = 1169 mBar
+                              Wed, 10 Apr 2013 23:38:59
+pressure   1 bar container = 1168 mBar
+                              Wed, 10 Apr 2013 23:43:58
+pressure   1 bar container = 1168 mBar
+                              Wed, 10 Apr 2013 23:48:58
+pressure   1 bar container = 1167 mBar
+                              Wed, 10 Apr 2013 23:53:58
+pressure   1 bar container = 1163 mBar
+                              Wed, 10 Apr 2013 23:58:58
+pressure   1 bar container = 1163 mBar
+                              Thu, 11 Apr 2013 00:03:58
+pressure   1 bar container = 1160 mBar
+                              Thu, 11 Apr 2013 00:08:58
+pressure   1 bar container = 1159 mBar
+                              Thu, 11 Apr 2013 00:13:58
+pressure   1 bar container = 1158 mBar
+                              Thu, 11 Apr 2013 00:18:58
+pressure   1 bar container = 1156 mBar
+                              Thu, 11 Apr 2013 00:23:58
+pressure   1 bar container = 1156 mBar
+                              Thu, 11 Apr 2013 00:28:58
+pressure   1 bar container = 1155 mBar
+                              Thu, 11 Apr 2013 00:33:58
+pressure   1 bar container = 1152 mBar
+                              Thu, 11 Apr 2013 00:38:58
+pressure   1 bar container = 1152 mBar
+                              Thu, 11 Apr 2013 00:43:58
+pressure   1 bar container = 1150 mBar
+                              Thu, 11 Apr 2013 00:48:58
+pressure   1 bar container = 1150 mBar
+                              Thu, 11 Apr 2013 00:53:58
+pressure   1 bar container = 1148 mBar
+                              Thu, 11 Apr 2013 00:58:58
+pressure   1 bar container = 1147 mBar
+                              Thu, 11 Apr 2013 01:03:58
+pressure   1 bar container = 1146 mBar
+                              Thu, 11 Apr 2013 01:08:58
+pressure   1 bar container = 1145 mBar
+                              Thu, 11 Apr 2013 01:13:58
+pressure   1 bar container = 1145 mBar
+                              Thu, 11 Apr 2013 01:18:58
+pressure   1 bar container = 1143 mBar
+                              Thu, 11 Apr 2013 01:23:58
+pressure   1 bar container = 1142 mBar
+                              Thu, 11 Apr 2013 01:28:58
+pressure   1 bar container = 1139 mBar
+                              Thu, 11 Apr 2013 01:33:58
+pressure   1 bar container = 1139 mBar
+                              Thu, 11 Apr 2013 01:38:58
+pressure   1 bar container = 1139 mBar
+                              Thu, 11 Apr 2013 01:43:58
+pressure   1 bar container = 1137 mBar
+                              Thu, 11 Apr 2013 01:48:58
+pressure   1 bar container = 1137 mBar
+                              Thu, 11 Apr 2013 01:53:58
+pressure   1 bar container = 1133 mBar
+                              Thu, 11 Apr 2013 01:58:58
+pressure   1 bar container = 1132 mBar
+                              Thu, 11 Apr 2013 02:03:58
+pressure   1 bar container = 1132 mBar
+                              Thu, 11 Apr 2013 02:08:58
+pressure   1 bar container = 1130 mBar
+                              Thu, 11 Apr 2013 02:13:58
+pressure   1 bar container = 1130 mBar
+                              Thu, 11 Apr 2013 02:18:58
+pressure   1 bar container = 1129 mBar
+                              Thu, 11 Apr 2013 02:23:58
+pressure   1 bar container = 1128 mBar
+                              Thu, 11 Apr 2013 02:28:58
+pressure   1 bar container = 1128 mBar
+                              Thu, 11 Apr 2013 02:33:58
+pressure   1 bar container = 1128 mBar
+                              Thu, 11 Apr 2013 02:38:58
+pressure   1 bar container = 1125 mBar
+                              Thu, 11 Apr 2013 02:43:58
+pressure   1 bar container = 1123 mBar
+                              Thu, 11 Apr 2013 02:48:57
+pressure   1 bar container = 1123 mBar
+                              Thu, 11 Apr 2013 02:53:57
+pressure   1 bar container = 1121 mBar
+                              Thu, 11 Apr 2013 02:58:57
+pressure   1 bar container = 1123 mBar
+                              Thu, 11 Apr 2013 03:03:57
+pressure   1 bar container = 1119 mBar
+                              Thu, 11 Apr 2013 03:08:57
+pressure   1 bar container = 1117 mBar
+                              Thu, 11 Apr 2013 03:13:57
+pressure   1 bar container = 1119 mBar
+                              Thu, 11 Apr 2013 03:18:57
+pressure   1 bar container = 1117 mBar
+                              Thu, 11 Apr 2013 03:23:57
+pressure   1 bar container = 1115 mBar
+                              Thu, 11 Apr 2013 03:28:57
+pressure   1 bar container = 1115 mBar
+                              Thu, 11 Apr 2013 03:33:57
+pressure   1 bar container = 1112 mBar
+                              Thu, 11 Apr 2013 03:38:57
+pressure   1 bar container = 1112 mBar
+                              Thu, 11 Apr 2013 03:43:57
+pressure   1 bar container = 1111 mBar
+                              Thu, 11 Apr 2013 03:48:57
+pressure   1 bar container = 1111 mBar
+                              Thu, 11 Apr 2013 03:53:57
+pressure   1 bar container = 1111 mBar
+                              Thu, 11 Apr 2013 03:58:57
+pressure   1 bar container = 1109 mBar
+                              Thu, 11 Apr 2013 04:03:57
+pressure   1 bar container = 1108 mBar
+                              Thu, 11 Apr 2013 04:08:57
+pressure   1 bar container = 1107 mBar
+                              Thu, 11 Apr 2013 04:13:57
+pressure   1 bar container = 1105 mBar
+                              Thu, 11 Apr 2013 04:18:57
+pressure   1 bar container = 1105 mBar
+                              Thu, 11 Apr 2013 04:23:57
+pressure   1 bar container = 1104 mBar
+                              Thu, 11 Apr 2013 04:28:57
+pressure   1 bar container = 1099 mBar
+                              Thu, 11 Apr 2013 04:33:57
+pressure   1 bar container = 1102 mBar
+                              Thu, 11 Apr 2013 04:38:57
+pressure   1 bar container = 1099 mBar
+                              Thu, 11 Apr 2013 04:43:57
+pressure   1 bar container = 1098 mBar
+                              Thu, 11 Apr 2013 04:48:57
+pressure   1 bar container = 1098 mBar
+                              Thu, 11 Apr 2013 04:53:57
+pressure   1 bar container = 1097 mBar
+                              Thu, 11 Apr 2013 04:58:57
+pressure   1 bar container = 1095 mBar
+                              Thu, 11 Apr 2013 05:03:57
+pressure   1 bar container = 1095 mBar
+                              Thu, 11 Apr 2013 05:08:57
+pressure   1 bar container = 1097 mBar
+                              Thu, 11 Apr 2013 05:13:57
+pressure   1 bar container = 1094 mBar
+                              Thu, 11 Apr 2013 05:18:57
+pressure   1 bar container = 1095 mBar
+                              Thu, 11 Apr 2013 05:23:57
+pressure   1 bar container = 1093 mBar
+                              Thu, 11 Apr 2013 05:28:57
+pressure   1 bar container = 1093 mBar
+                              Thu, 11 Apr 2013 05:33:57
+pressure   1 bar container = 1091 mBar
+                              Thu, 11 Apr 2013 05:38:57
+pressure   1 bar container = 1091 mBar
+                              Thu, 11 Apr 2013 05:43:57
+pressure   1 bar container = 1090 mBar
+                              Thu, 11 Apr 2013 05:48:56
+pressure   1 bar container = 1090 mBar
+                              Thu, 11 Apr 2013 05:53:56
+pressure   1 bar container = 1090 mBar
+                              Thu, 11 Apr 2013 05:58:56
+pressure   1 bar container = 1087 mBar
+                              Thu, 11 Apr 2013 06:03:56
+pressure   1 bar container = 1086 mBar
+                              Thu, 11 Apr 2013 06:08:56
+pressure   1 bar container = 1085 mBar
+                              Thu, 11 Apr 2013 06:13:56
+pressure   1 bar container = 1083 mBar
+                              Thu, 11 Apr 2013 06:18:56
+pressure   1 bar container = 1083 mBar
+                              Thu, 11 Apr 2013 06:23:56
+pressure   1 bar container = 1085 mBar
+                              Thu, 11 Apr 2013 06:28:56
+pressure   1 bar container = 1082 mBar
+                              Thu, 11 Apr 2013 06:33:56
+pressure   1 bar container = 1082 mBar
+                              Thu, 11 Apr 2013 06:38:56
+pressure   1 bar container = 1082 mBar
+                              Thu, 11 Apr 2013 06:43:56
+pressure   1 bar container = 1079 mBar
+                              Thu, 11 Apr 2013 06:48:56
+pressure   1 bar container = 1079 mBar
+                              Thu, 11 Apr 2013 06:53:56
+pressure   1 bar container = 1079 mBar
+                              Thu, 11 Apr 2013 06:58:56
+pressure   1 bar container = 1078 mBar
+                              Thu, 11 Apr 2013 07:03:56
+pressure   1 bar container = 1078 mBar
+                              Thu, 11 Apr 2013 07:08:56
+pressure   1 bar container = 1074 mBar
+                              Thu, 11 Apr 2013 07:13:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:18:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:23:56
+pressure   1 bar container = 1065 mBar
+                              Thu, 11 Apr 2013 07:28:56
+pressure   1 bar container = 1065 mBar
+                              Thu, 11 Apr 2013 07:33:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:38:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:43:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:48:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:53:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 07:58:56
+pressure   1 bar container = 1069 mBar
+                              Thu, 11 Apr 2013 08:03:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 08:08:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 08:13:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 08:18:56
+pressure   1 bar container = 1068 mBar
+                              Thu, 11 Apr 2013 08:23:56
+pressure   1 bar container = 1065 mBar
+                              Thu, 11 Apr 2013 08:28:56
+pressure   1 bar container = 1065 mBar
+                              Thu, 11 Apr 2013 08:33:56
+pressure   1 bar container = 1064 mBar
+                              Thu, 11 Apr 2013 08:38:56
+pressure   1 bar container = 1065 mBar
+                              Thu, 11 Apr 2013 08:43:56
+pressure   1 bar container = 1064 mBar
+                              Thu, 11 Apr 2013 08:48:55
+pressure   1 bar container = 1064 mBar
+                              Thu, 11 Apr 2013 08:53:55
+pressure   1 bar container = 1064 mBar
+                              Thu, 11 Apr 2013 08:58:55
+pressure   1 bar container = 1064 mBar
+                              Thu, 11 Apr 2013 09:03:55
+pressure   1 bar container = 1063 mBar
+                              Thu, 11 Apr 2013 09:08:55
+pressure   1 bar container = 1061 mBar
+                              Thu, 11 Apr 2013 09:13:55
+pressure   1 bar container = 1060 mBar
+                              Thu, 11 Apr 2013 09:18:55
+pressure   1 bar container = 1060 mBar
+                              Thu, 11 Apr 2013 09:23:55
+pressure   1 bar container = 1061 mBar
+                              Thu, 11 Apr 2013 09:28:55
+pressure   1 bar container = 1061 mBar
+                              Thu, 11 Apr 2013 09:33:55
+pressure   1 bar container = 1060 mBar
+                              Thu, 11 Apr 2013 09:38:55
+pressure   1 bar container = 1057 mBar
+                              Thu, 11 Apr 2013 09:43:55
+pressure   1 bar container = 1059 mBar
+                              Thu, 11 Apr 2013 09:48:55
+pressure   1 bar container = 1059 mBar
+                              Thu, 11 Apr 2013 09:53:55
+pressure   1 bar container = 1055 mBar
+                              Thu, 11 Apr 2013 09:58:55
+pressure   1 bar container = 1057 mBar
+                              Thu, 11 Apr 2013 10:03:55
+pressure   1 bar container = 1056 mBar
+                              Thu, 11 Apr 2013 10:08:55
+pressure   1 bar container = 1056 mBar
+                              Thu, 11 Apr 2013 10:13:55
+pressure   1 bar container = 1056 mBar
+                              Thu, 11 Apr 2013 10:18:55
+pressure   1 bar container = 1055 mBar
+                              Thu, 11 Apr 2013 10:23:55
+pressure   1 bar container = 1053 mBar
+                              Thu, 11 Apr 2013 10:28:55
+pressure   1 bar container = 1055 mBar
+                              Thu, 11 Apr 2013 10:33:55
+pressure   1 bar container = 1052 mBar
+                              Thu, 11 Apr 2013 10:38:55
+pressure   1 bar container = 1052 mBar
+                              Thu, 11 Apr 2013 10:43:55
+pressure   1 bar container = 1052 mBar
+                              Thu, 11 Apr 2013 10:48:55
+pressure   1 bar container = 1052 mBar
+                              Thu, 11 Apr 2013 10:53:55
+pressure   1 bar container = 1052 mBar
+                              Thu, 11 Apr 2013 10:58:55
+pressure   1 bar container = 1050 mBar
+                              Thu, 11 Apr 2013 11:03:55
+pressure   1 bar container = 1050 mBar
+                              Thu, 11 Apr 2013 11:08:55
+pressure   1 bar container = 1051 mBar
+                              Thu, 11 Apr 2013 11:13:55
+pressure   1 bar container = 1047 mBar
+                              Thu, 11 Apr 2013 11:18:55
+pressure   1 bar container = 1048 mBar
+
+----- NEW SESSION @ Wed, 12 Jun 2013 09:20:34 -----
