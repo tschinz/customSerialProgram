@@ -1,11 +1,11 @@
-[Custom Serial Program](http://zawiki.zapto.org/~zas/zawiki/doku.php/tschinz:myprograms) - UART Debug Monitor
+Custom Serial Program - UART Debug Monitor
 ================================
 
 The goal is to facilitate the debug of a system with the help of a serial. This program lets you create custom commands and they can be sent over a Serial Port. The record of the send and received commands can be create with a appropriate timestamp.
 
 ---
-                   
-![CSP Screennshot](http://zawiki.zapto.org/lib/exe/fetch.php/tschinz:programming:programs:csp:screenshot_csp.png)
+
+<img src="./img/screenshot_csp.png" alt="CSP Screenshot" width="500">
 
 To Launch the Program you need to have installed Python 2.7 and certain modules.
 - [Python 2.7.x](http://www.python.org/getit/releases/2.7/)
@@ -22,7 +22,7 @@ For Linux launch, user the `csp.pyw` script in the `scr` folder. All the above m
 `sudo apt-get install python2.7 python-qt4 python-py`
 
 ### Windows
-For launching on Windows an executable was build. Launch the `csp.exe` in the `bin` folder.
+For launching on Windows an executable wsa build. Launch the `csp.exe` in the `bin` folder.
 
 Python based
 ---
@@ -39,7 +39,8 @@ Sourcefiles
 
 Changelog
 ---
-- 1.8   - added setting.ini and choosable *.cmd file
+- 1.8   - Bugfixes for exe program, finalizing 1.7 features
+- 1.7.4 - Added feature for choosing cmd file
 - 1.7.3 - Created win32 and win64 binaries
 - 1.7.2 - fixed GUI reception bug
 - 1.7.1 - new Button layout and text
